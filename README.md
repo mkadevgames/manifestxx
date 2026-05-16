@@ -20,7 +20,7 @@
 2. Execute o arquivo com um duplo clique.
 3. O script solicitará automaticamente os privilégios de **Administrador** necessários.
 4. Escolha uma das opções no menu interativo e aguarde a conclusão.
-
+ ou se estiver no site, abra no seu navegador o repositorio no github
 ---
 
 ## ⚠️ Aviso Importante
