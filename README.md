@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Recursos
-
+* ** NOVA VERSÃO DISPONIVEL!!!!!!
 * **Otimização de CPU & Memória:** Ajustes finos de prioridade de processos e gerenciamento avançado de memória RAM.
 * **Rede & Latência:** Otimização do protocolo TCP/IP e limpeza de DNS para foco em jogos competitivos.
 * **Performance de Disco:** Limpeza profunda de caches ocultos, arquivos temporários e otimização de leitura NTFS.
@@ -32,4 +32,4 @@
 
 ### CASO ESTEJA NO SITE POR FAVOR ABRA O LINK ABAIXO PARA ABAIXAR O MANIFESTXX 
 
-https://github.com/mkadevgames/manifestxx
+> **Nota:** https://github.com/mkadevgames/manifestxx
