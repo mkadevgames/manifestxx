@@ -28,8 +28,3 @@
 > **Nota:** Este script realiza alterações profundas no sistema e em chaves do Registro do Windows. Recomenda-se fortemente **criar um Ponto de Restauração do sistema** antes de aplicar as otimizações. Use por sua conta e risco.
 
 ---
-
-
-### CASO ESTEJA NO SITE POR FAVOR ABRA O LINK ABAIXO PARA ABAIXAR O MANIFESTXX 
-
-> **Nota:** https://github.com/mkadevgames/manifestxx
